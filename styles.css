@@ -30,12 +30,15 @@
       padding: 15px 30px;
       font-size: 1.25rem;
     }
-    #button-6 {
-      background-color: #0dcaf0;
-      color: white;
-      opacity: 0.65;
-      cursor: not-allowed;
-    }
+  #button-6 {
+  background-color: #0dcaf0;
+  color: white;
+  opacity: 0.65;
+  cursor: not-allowed;
+  border: none;   /* yeh add karo taki border default se na aaye */
+  padding: 10px 20px; /* baki buttons ki tarah consistency ke liye */
+}
+
     #button-7 {
       background-color: #f8f9fa;
       border: 1px solid #ddd;
