@@ -32,11 +32,11 @@
     }
   #button-6 {
   background-color: #0dcaf0;
-  color: white;
+  color: black;
   opacity: 0.65;
   cursor: not-allowed;
-  border: none;   /* yeh add karo taki border default se na aaye */
-  padding: 10px 20px; /* baki buttons ki tarah consistency ke liye */
+  border: none;  
+  padding: 10px 20px;
 }
 
     #button-7 {
@@ -50,5 +50,4 @@
       color: #0d6efd;
       text-decoration: underline;
       border: none;
-      padding: 0;
     }
