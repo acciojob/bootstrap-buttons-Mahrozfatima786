@@ -22,6 +22,8 @@
       color: white;
       padding: 5px 15px;
       font-size: 0.875rem;
+				border:none
+
     }
     #button-5 {
       background-color: #ffc107;
