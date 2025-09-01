@@ -1,0 +1,57 @@
+  #button-1 {
+      background-color: #0d6efd;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+    }
+    #button-2 {
+      border: 2px solid #6c757d;
+      color: #6c757d;
+      padding: 10px 20px;
+      background: transparent;
+    }
+    #button-3 {
+      background-color: #198754;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.25rem;
+    }
+    #button-4 {
+      background-color: #dc3545;
+      color: white;
+      padding: 5px 15px;
+      font-size: 0.875rem;
+				border:none
+
+    }
+    #button-5 {
+      background-color: #ffc107;
+      color: black;
+      width: 100%;
+      padding: 15px 30px;
+      font-size: 1.25rem;
+		border:none
+    }
+  #button-6 {
+  background-color: #0dcaf0;
+  color: white;
+  opacity: 0.65;
+  cursor: not-allowed;
+  border: none;   /* yeh add karo taki border default se na aaye */
+  padding: 10px 20px; /* baki buttons ki tarah consistency ke liye */
+}
+
+    #button-7 {
+      background-color: #f8f9fa;
+      border: 1px solid #ddd;
+      color: black;
+      padding: 10px 20px;
+    }
+    #button-8 {
+      background: none;
+      color: #0d6efd;
+      text-decoration: underline;
+      border: none;
+      padding: 0;
+    }
